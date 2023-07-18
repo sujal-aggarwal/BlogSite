@@ -161,12 +161,12 @@ aside {
     text-decoration: none;
     font-weight: bold;
     line-height: 1.25;
-    font-family: sans-serif;
+    font-family:Verdana ;
 }
 
 input,
 textarea {
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     padding: 4px 10px;
     background-color: #f7f7f7;
     border: 1px solid #d1d1d1;
@@ -205,4 +205,5 @@ button[type="submit"]:hover {
 
 .list li{
     color:#dc6520;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
