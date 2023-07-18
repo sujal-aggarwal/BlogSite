@@ -131,6 +131,7 @@ aside {
     border-top: 4px solid black;
     line-height: 1.6;
     font-size: 1.1rem;
+    margin-bottom: 70px;
 }
 
 .widget a {
@@ -145,6 +146,9 @@ aside {
     letter-spacing: 0.05rem;
     font-size: 1.1rem;
     word-spacing: 0.1rem;
+    color: #000000;
+    letter-spacing: 0.1rem;
+    line-height: 1;
 }
 
 input,
@@ -172,4 +176,20 @@ button[type="submit"] {
 
 button[type="submit"]:hover {
     background-color: #dc6520;
+}
+
+#searchbox{
+    display: inline-block;
+    margin-top: 30px;
+}
+
+#search_img{
+    height:0.7rem ;
+    width:0.7rem ;
+    display: inline-block;
+    align-self: baseline;
+}
+
+.list li{
+    color:#dc6520;
 }
